@@ -1,5 +1,5 @@
 library(shiny)
-#library(rdrop2)
+library(rdrop2)
 #library(sendmailR)
 library(digest)
 #library(yarrr)
