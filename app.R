@@ -1,8 +1,8 @@
 library(shiny)
 #library(rdrop2)
 #library(sendmailR)
-#library(digest)
-library(yarrr)
+library(digest)
+#library(yarrr)
 
 ui <- fluidPage(
   "Hello, world! Again!!!"
